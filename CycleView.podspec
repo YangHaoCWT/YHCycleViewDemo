@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'CycleView'
-s.version      = '1.0.1'
+s.version      = '1.0.2'
 s.summary      = 'Swift无线轮播'
 s.homepage     = 'https://github.com/YangHaoLoad/YHCycleViewDemo'
 s.license      = 'MIT'
